@@ -3,22 +3,5 @@
 * {
     margin: 0px;
     padding: 0px;
-
-}
-
-main {
-    width: 100%;
-    height: 100vh;
-    background: lightcyan
-}
-
-section {
-    border: 10px solid blue;
-}
-
-section article {
-    width: 100px;
-    height: 100px;
-    background: aqua;
-    border: 1px solid #000;
+    box-sizing: border-box;
 }
